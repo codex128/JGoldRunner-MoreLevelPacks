@@ -6,5 +6,5 @@ To download and use a level package from this repository:
 3. Start JGoldRunner and use the "import package" feature in the levels menu.
 4. Navigate to the downloaded package and import it!
 
-# Don't have JGoldRunner?
+## Don't have JGoldRunner?
 You can easily download it [here](https://github.com/codex128/JGoldRunner)!
